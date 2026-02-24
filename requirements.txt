@@ -1,0 +1,10 @@
+ffmpeg-python==0.2.0
+numpy>=1.21.0,<2.0.0
+opencv-python-headless>=4.8.0
+Pillow  
+PyYAML>=6.0
+colorlog>=6.0
+
+onnxruntime-gpu>=1.16.3
+
+
